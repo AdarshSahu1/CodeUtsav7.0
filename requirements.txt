@@ -1,0 +1,5 @@
+pip install streamlit
+pip install numpy
+pip install pandas
+pip install os
+pip install scikit-learn
